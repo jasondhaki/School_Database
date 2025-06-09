@@ -1,2 +1,2 @@
-# School_Database
+# School Database
 A simple and user-friendly database management system for schools.
